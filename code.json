@@ -1,4 +1,5 @@
 {
   "code": "YOUR_BOT_TOKEN",
-  "client": "YOUR_APPLICATION_ID"
+  "client": "YOUR_APPLICATION_ID",
+  "api": "YOUR_CHATBOT_AI_KEY"
 }
