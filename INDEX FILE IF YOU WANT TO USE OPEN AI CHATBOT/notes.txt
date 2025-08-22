@@ -1,4 +1,4 @@
-You can integrate your Discord Bot with a OPEN AI chatbot or anyother CHATBOT, that will function as a real time chatbot.
-You require an API key from open AI which can be generated from their website.
-Although many times it may not work as it will require premimium subscriptions for OPEN AI MODEL.
-YOU HAVE to write your OPEN AI KEY IN code.json file
+You can integrate your Discord bot with an OpenAI chatbot (or any other chatbot) to function as a real-time conversational bot.
+You will need an API key from OpenAI, which can be generated from their website.
+However, in many cases, it may not work without a premium subscription to the OpenAI model.
+You must write your OpenAI API key in the code.json file.
