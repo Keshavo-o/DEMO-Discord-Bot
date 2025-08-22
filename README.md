@@ -28,7 +28,7 @@ Registers a sample /ping command.
 
 Requires APPLICATION_ID (client id) and BOT_TOKEN from code.json.
 
-3. code.json (Configuration File)
+## 3. code.json (Configuration File)
 
 Example:
 
@@ -39,23 +39,23 @@ Example:
 
 ## Running the Project
 
-### Install dependencies:
+### 1. Install dependencies:
 
 npm install discord.js
 
-### Make code.json file with the syntax:
+### 2. Make code.json file with the syntax:
 {
   "code": "YOUR_BOT_TOKEN",
   "client": "YOUR_APPLICATION_ID"
 }
 
 
-### Register slash commands (run once):
+### 3. Register slash commands (run once):
 
 node registerCommands.js
 
 
-### Start the bot:
+### 4. Start the bot:
 
 node bot.js
 
